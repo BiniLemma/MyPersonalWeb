@@ -1,0 +1,28 @@
+    * {
+        margin: 0%;
+        padding: 0%;
+    }
+    
+    header {
+        background-image: url(/MyPersonalWeb/Assets/Images/aa.jpg);
+        height: 50vh;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .main-nav {
+        float: center;
+        list-style: none;
+        margin: 30px;
+    }
+    
+    .main-nav li {
+        display: inline-block;
+    }
+    
+    .main-nav li a {
+        color: white;
+        text-decoration: none;
+        padding: 5px 20px;
+        font-family: "Roboto";
+    }
